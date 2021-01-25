@@ -16,10 +16,12 @@ The `util` package contains the `Logger` class which is an implementation of a l
 The Logger is implemented as a naive singleton (not thread safe)
 
 ## Compiling and running
-Compiling and running the project: 
+Compiling and running the project:
+
 ![compiling](scr/build.png)
 
 Contents of `build.sh`:
+
 ![build.sh](scr/script.png)
 
 Note that the jar must be run in the out directory
