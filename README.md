@@ -24,4 +24,4 @@ Contents of `build.sh`:
 
 ![build.sh](scr/script.png)
 
-Note that the jar must be run in the out directory
+Note that the jar must be executed in the out directory
